@@ -11,6 +11,7 @@ include Makefile.settings
 # Meta
 
 menu:
+	clear
 	$(INFO) 'Recipes'
 	@echo '	prj   : Make project'
 
