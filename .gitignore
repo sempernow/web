@@ -1,39 +1,3 @@
-# Ignore everything
-*
-# Allow 1st level subdirs
-!*/
-
-# Recursively allow all subdirs under specified 1st-level subdir
-!/foo/**
-
-# Whitelist per file name
-!.nojekyll
-!.gitignore
-!.dockerignore
-!Makefile
-!Makefile.settings
-!favicon.png
-
-# Whitelist per file type
-!*.sql
-!*.cmd
-!*.ps
-!*.bat
-!*.reg
-!*.sh
-!*.yml
-!*.yaml
-!*.json
-!*.tf
-!*.Dockerfile
-!*.dockerfile
-!*.sh
-!*.go 
-!*.js
-!*.css
-!*.md
-!*.log
-
 # Ignore : Override whitelist
 
 **/LOG.md
