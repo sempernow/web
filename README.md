@@ -1,3 +1,3 @@
-# [`sempernow/web`](https://sempernow.github.io/web/)
+# Visit [`sempernow/web`](https://sempernow.github.io/web/)
 
 
